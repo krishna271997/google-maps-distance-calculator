@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "129545238163",
+    "firebase_url": "https://massive-haiku-230211.firebaseio.com",
+    "project_id": "massive-haiku-230211",
+    "storage_bucket": "massive-haiku-230211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129545238163:android:2c8513ae6c82e22e",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.googlemapsdistancecalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129545238163-e02ad3n9rak7hgsuvjfm31rmcl587118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmC9jRkTI9Evm5BVmwNnJruzJiHnSj3g0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
